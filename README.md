@@ -1,4 +1,4 @@
-# Security Header Checker
+# 🔐 Security Header Checker
 
 Ein kleines Python-Tool, das prüft, ob gängige HTTP-Sicherheits-Header auf einer Webseite gesetzt sind.
 
