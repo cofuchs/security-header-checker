@@ -9,5 +9,5 @@ Dieses Tool unterstützt Ethical Hacker und Security-Einsteiger dabei, erste Che
 ## Nutzung
 
 1. Stelle sicher, dass Python 3 installiert ist.
-2. Lade das Skript `security_header_checker.py` herunter oder kopiere das Repository.
+2. Lade das Skript `security_header_checker.py` herunter oder kopiere die Datei.
 3. Führe das Skript aus.
